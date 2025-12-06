@@ -4,3 +4,6 @@
 [submodule "meta-openembedded"]
 	path = meta-openembedded
 	url = https://git.openembedded.org/meta-openembedded
+[submodule "meta-rockchip"]
+	path = meta-rockchip
+	url = https://github.com/JeffyCN/meta-rockchip
